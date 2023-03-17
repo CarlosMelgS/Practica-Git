@@ -1,2 +1,2 @@
 # Observaciones
-* tommy
+* tommy y sandia
