@@ -1,2 +1,2 @@
 let platos = ["Ceviche"];
-let bocaditos = "Arroz conleche"
+let bocaditos = "Arroz conleche huevito desde github"
